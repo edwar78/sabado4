@@ -9,7 +9,7 @@
 ***
 ***
 ### Temas
-- PAZ
+- Paz
 - Vida
 - Amor
 # Programado por Alexander Garcia
